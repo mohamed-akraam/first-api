@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body * {
+    margin: 10px;
+}
+
+img {
+    padding-top: 30px;
+    width: 400px;
+    display: block;
+}
+
+div p {
+    display: inline;
+    font-size: 1.2rem;
+    margin: 0px;
+}
